@@ -1,0 +1,715 @@
+--
+PROTEINS - GCN - Num layers:3 -Hidden layer:32
+01/080: Val Loss: 0.5330, Test Accuracy: 0.691
+01/160: Val Loss: 0.5248, Test Accuracy: 0.722
+02/080: Val Loss: 0.6174, Test Accuracy: 0.735
+02/160: Val Loss: 0.6181, Test Accuracy: 0.735
+03/080: Val Loss: 0.5639, Test Accuracy: 0.722
+03/160: Val Loss: 0.5551, Test Accuracy: 0.722
+04/080: Val Loss: 0.5529, Test Accuracy: 0.698
+04/160: Val Loss: 0.5606, Test Accuracy: 0.703
+05/080: Val Loss: 0.5939, Test Accuracy: 0.757
+05/160: Val Loss: 0.5909, Test Accuracy: 0.761
+Val Loss: 0.5609, Test Accuracy: 0.726 ± 0.035, Duration: 18.248
+--
+PROTEINS - GCN - Num layers:3 -Hidden layer:64
+01/080: Val Loss: 0.5298, Test Accuracy: 0.682
+01/160: Val Loss: 0.5340, Test Accuracy: 0.695
+02/080: Val Loss: 0.6172, Test Accuracy: 0.735
+02/160: Val Loss: 0.6499, Test Accuracy: 0.731
+03/080: Val Loss: 0.5544, Test Accuracy: 0.717
+03/160: Val Loss: 0.5509, Test Accuracy: 0.726
+04/080: Val Loss: 0.5651, Test Accuracy: 0.707
+04/160: Val Loss: 0.5642, Test Accuracy: 0.716
+05/080: Val Loss: 0.6224, Test Accuracy: 0.770
+05/160: Val Loss: 0.6220, Test Accuracy: 0.757
+Val Loss: 0.5576, Test Accuracy: 0.724 ± 0.028, Duration: 18.125
+--
+PROTEINS - GCN - Num layers:3 -Hidden layer:128
+01/080: Val Loss: 0.5256, Test Accuracy: 0.700
+01/160: Val Loss: 0.5268, Test Accuracy: 0.713
+02/080: Val Loss: 0.6407, Test Accuracy: 0.717
+02/160: Val Loss: 0.6237, Test Accuracy: 0.704
+03/080: Val Loss: 0.5648, Test Accuracy: 0.695
+03/160: Val Loss: 0.5469, Test Accuracy: 0.695
+04/080: Val Loss: 0.5573, Test Accuracy: 0.716
+04/160: Val Loss: 0.5828, Test Accuracy: 0.716
+05/080: Val Loss: 0.6224, Test Accuracy: 0.775
+05/160: Val Loss: 0.6526, Test Accuracy: 0.775
+Val Loss: 0.5542, Test Accuracy: 0.726 ± 0.033, Duration: 18.640
+--
+PROTEINS - GCN - Num layers:4 -Hidden layer:32
+01/080: Val Loss: 0.5389, Test Accuracy: 0.695
+01/160: Val Loss: 0.5243, Test Accuracy: 0.717
+02/080: Val Loss: 0.6178, Test Accuracy: 0.731
+02/160: Val Loss: 0.6317, Test Accuracy: 0.744
+03/080: Val Loss: 0.5679, Test Accuracy: 0.726
+03/160: Val Loss: 0.5552, Test Accuracy: 0.740
+04/080: Val Loss: 0.5600, Test Accuracy: 0.707
+04/160: Val Loss: 0.5660, Test Accuracy: 0.725
+05/080: Val Loss: 0.5897, Test Accuracy: 0.779
+05/160: Val Loss: 0.5981, Test Accuracy: 0.770
+Val Loss: 0.5620, Test Accuracy: 0.735 ± 0.025, Duration: 20.174
+--
+PROTEINS - GCN - Num layers:4 -Hidden layer:64
+01/080: Val Loss: 0.5472, Test Accuracy: 0.704
+01/160: Val Loss: 0.5436, Test Accuracy: 0.709
+02/080: Val Loss: 0.6280, Test Accuracy: 0.717
+02/160: Val Loss: 0.6039, Test Accuracy: 0.735
+03/080: Val Loss: 0.5753, Test Accuracy: 0.726
+03/160: Val Loss: 0.5647, Test Accuracy: 0.726
+04/080: Val Loss: 0.5637, Test Accuracy: 0.698
+04/160: Val Loss: 0.5832, Test Accuracy: 0.730
+05/080: Val Loss: 0.5926, Test Accuracy: 0.766
+05/160: Val Loss: 0.6210, Test Accuracy: 0.766
+Val Loss: 0.5601, Test Accuracy: 0.729 ± 0.034, Duration: 20.130
+--
+PROTEINS - GCN - Num layers:4 -Hidden layer:128
+01/080: Val Loss: 0.5513, Test Accuracy: 0.664
+01/160: Val Loss: 0.5354, Test Accuracy: 0.704
+02/080: Val Loss: 0.5989, Test Accuracy: 0.753
+02/160: Val Loss: 0.6498, Test Accuracy: 0.749
+03/080: Val Loss: 0.5726, Test Accuracy: 0.726
+03/160: Val Loss: 0.5623, Test Accuracy: 0.722
+04/080: Val Loss: 0.5660, Test Accuracy: 0.703
+04/160: Val Loss: 0.5749, Test Accuracy: 0.716
+05/080: Val Loss: 0.5819, Test Accuracy: 0.761
+05/160: Val Loss: 0.6025, Test Accuracy: 0.757
+Val Loss: 0.5537, Test Accuracy: 0.727 ± 0.032, Duration: 20.198
+--
+PROTEINS - GCN - Num layers:5 -Hidden layer:32
+01/080: Val Loss: 0.5674, Test Accuracy: 0.668
+01/160: Val Loss: 0.5741, Test Accuracy: 0.695
+02/080: Val Loss: 0.6182, Test Accuracy: 0.731
+02/160: Val Loss: 0.6336, Test Accuracy: 0.749
+03/080: Val Loss: 0.5763, Test Accuracy: 0.722
+03/160: Val Loss: 0.5707, Test Accuracy: 0.735
+04/080: Val Loss: 0.5766, Test Accuracy: 0.725
+04/160: Val Loss: 0.5651, Test Accuracy: 0.725
+05/080: Val Loss: 0.5914, Test Accuracy: 0.757
+05/160: Val Loss: 0.6020, Test Accuracy: 0.761
+Val Loss: 0.5749, Test Accuracy: 0.718 ± 0.034, Duration: 21.778
+--
+PROTEINS - GCN - Num layers:5 -Hidden layer:64
+01/080: Val Loss: 0.5319, Test Accuracy: 0.673
+01/160: Val Loss: 0.5172, Test Accuracy: 0.686
+02/080: Val Loss: 0.6249, Test Accuracy: 0.713
+02/160: Val Loss: 0.5872, Test Accuracy: 0.744
+03/080: Val Loss: 0.6199, Test Accuracy: 0.713
+03/160: Val Loss: 0.5675, Test Accuracy: 0.717
+04/080: Val Loss: 0.5912, Test Accuracy: 0.716
+04/160: Val Loss: 0.5796, Test Accuracy: 0.734
+05/080: Val Loss: 0.6233, Test Accuracy: 0.761
+05/160: Val Loss: 0.6167, Test Accuracy: 0.766
+Val Loss: 0.5551, Test Accuracy: 0.731 ± 0.033, Duration: 21.742
+--
+PROTEINS - GCN - Num layers:5 -Hidden layer:128
+01/080: Val Loss: 0.5526, Test Accuracy: 0.686
+01/160: Val Loss: 0.5598, Test Accuracy: 0.695
+02/080: Val Loss: 0.5942, Test Accuracy: 0.726
+02/160: Val Loss: 0.5937, Test Accuracy: 0.740
+03/080: Val Loss: 0.5625, Test Accuracy: 0.731
+03/160: Val Loss: 0.5510, Test Accuracy: 0.735
+04/080: Val Loss: 0.5504, Test Accuracy: 0.707
+04/160: Val Loss: 0.5731, Test Accuracy: 0.721
+05/080: Val Loss: 0.5964, Test Accuracy: 0.766
+05/160: Val Loss: 0.6086, Test Accuracy: 0.748
+Val Loss: 0.5583, Test Accuracy: 0.724 ± 0.050, Duration: 22.249
+Best result - 0.727 ± 0.032
+--
+PROTEINS - GraphSAGE - Num layers:3 -Hidden layer:32
+01/080: Val Loss: 0.5163, Test Accuracy: 0.695
+01/160: Val Loss: 0.5333, Test Accuracy: 0.673
+02/080: Val Loss: 0.6467, Test Accuracy: 0.726
+02/160: Val Loss: 0.6822, Test Accuracy: 0.731
+03/080: Val Loss: 0.5608, Test Accuracy: 0.722
+03/160: Val Loss: 0.5625, Test Accuracy: 0.717
+04/080: Val Loss: 0.5591, Test Accuracy: 0.721
+04/160: Val Loss: 0.5461, Test Accuracy: 0.712
+05/080: Val Loss: 0.5895, Test Accuracy: 0.757
+05/160: Val Loss: 0.6357, Test Accuracy: 0.743
+Val Loss: 0.5604, Test Accuracy: 0.720 ± 0.031, Duration: 16.420
+--
+PROTEINS - GraphSAGE - Num layers:3 -Hidden layer:64
+01/080: Val Loss: 0.5182, Test Accuracy: 0.677
+01/160: Val Loss: 0.5361, Test Accuracy: 0.691
+02/080: Val Loss: 0.6346, Test Accuracy: 0.722
+02/160: Val Loss: 0.6241, Test Accuracy: 0.731
+03/080: Val Loss: 0.5848, Test Accuracy: 0.677
+03/160: Val Loss: 0.5679, Test Accuracy: 0.691
+04/080: Val Loss: 0.5446, Test Accuracy: 0.707
+04/160: Val Loss: 0.5931, Test Accuracy: 0.698
+05/080: Val Loss: 0.6472, Test Accuracy: 0.730
+05/160: Val Loss: 0.7147, Test Accuracy: 0.752
+Val Loss: 0.5585, Test Accuracy: 0.717 ± 0.024, Duration: 16.597
+--
+PROTEINS - GraphSAGE - Num layers:3 -Hidden layer:128
+01/080: Val Loss: 0.5321, Test Accuracy: 0.686
+01/160: Val Loss: 0.5402, Test Accuracy: 0.686
+02/080: Val Loss: 0.6437, Test Accuracy: 0.744
+02/160: Val Loss: 0.6958, Test Accuracy: 0.735
+03/080: Val Loss: 0.5536, Test Accuracy: 0.713
+03/160: Val Loss: 0.5576, Test Accuracy: 0.722
+04/080: Val Loss: 0.6783, Test Accuracy: 0.721
+04/160: Val Loss: 1.1525, Test Accuracy: 0.703
+05/080: Val Loss: 0.5819, Test Accuracy: 0.748
+05/160: Val Loss: 0.5800, Test Accuracy: 0.748
+Val Loss: 0.5538, Test Accuracy: 0.722 ± 0.034, Duration: 17.001
+--
+PROTEINS - GraphSAGE - Num layers:4 -Hidden layer:32
+01/080: Val Loss: 0.5538, Test Accuracy: 0.673
+01/160: Val Loss: 0.5630, Test Accuracy: 0.704
+02/080: Val Loss: 0.5980, Test Accuracy: 0.735
+02/160: Val Loss: 0.6799, Test Accuracy: 0.749
+03/080: Val Loss: 0.5620, Test Accuracy: 0.700
+03/160: Val Loss: 0.5705, Test Accuracy: 0.713
+04/080: Val Loss: 0.5999, Test Accuracy: 0.707
+04/160: Val Loss: 0.6986, Test Accuracy: 0.703
+05/080: Val Loss: 0.5999, Test Accuracy: 0.766
+05/160: Val Loss: 0.6013, Test Accuracy: 0.757
+Val Loss: 0.5725, Test Accuracy: 0.718 ± 0.036, Duration: 18.024
+--
+PROTEINS - GraphSAGE - Num layers:4 -Hidden layer:64
+01/080: Val Loss: 0.5507, Test Accuracy: 0.695
+01/160: Val Loss: 0.5458, Test Accuracy: 0.726
+02/080: Val Loss: 0.5915, Test Accuracy: 0.726
+02/160: Val Loss: 0.6065, Test Accuracy: 0.744
+03/080: Val Loss: 0.5745, Test Accuracy: 0.695
+03/160: Val Loss: 0.5503, Test Accuracy: 0.695
+04/080: Val Loss: 0.6799, Test Accuracy: 0.698
+04/160: Val Loss: 0.8906, Test Accuracy: 0.703
+05/080: Val Loss: 0.5987, Test Accuracy: 0.743
+05/160: Val Loss: 0.8539, Test Accuracy: 0.752
+Val Loss: 0.5681, Test Accuracy: 0.716 ± 0.042, Duration: 18.191
+--
+PROTEINS - GraphSAGE - Num layers:4 -Hidden layer:128
+01/080: Val Loss: 0.5386, Test Accuracy: 0.695
+01/160: Val Loss: 0.5302, Test Accuracy: 0.682
+02/080: Val Loss: 0.6346, Test Accuracy: 0.744
+02/160: Val Loss: 0.6880, Test Accuracy: 0.731
+03/080: Val Loss: 0.5562, Test Accuracy: 0.717
+03/160: Val Loss: 0.6409, Test Accuracy: 0.709
+04/080: Val Loss: 0.6173, Test Accuracy: 0.761
+04/160: Val Loss: 0.7997, Test Accuracy: 0.743
+05/080: Val Loss: 0.7899, Test Accuracy: 0.761
+05/160: Val Loss: 1.1190, Test Accuracy: 0.766
+Val Loss: 0.5646, Test Accuracy: 0.725 ± 0.032, Duration: 17.764
+--
+PROTEINS - GraphSAGE - Num layers:5 -Hidden layer:32
+01/080: Val Loss: 0.5699, Test Accuracy: 0.704
+01/160: Val Loss: 0.5630, Test Accuracy: 0.700
+02/080: Val Loss: 0.5937, Test Accuracy: 0.744
+02/160: Val Loss: 0.6232, Test Accuracy: 0.726
+03/080: Val Loss: 0.5719, Test Accuracy: 0.749
+03/160: Val Loss: 0.5593, Test Accuracy: 0.735
+04/080: Val Loss: 0.5784, Test Accuracy: 0.725
+04/160: Val Loss: 0.6347, Test Accuracy: 0.734
+05/080: Val Loss: 0.6861, Test Accuracy: 0.757
+05/160: Val Loss: 0.7874, Test Accuracy: 0.775
+Val Loss: 0.5636, Test Accuracy: 0.730 ± 0.021, Duration: 19.491
+--
+PROTEINS - GraphSAGE - Num layers:5 -Hidden layer:64
+01/080: Val Loss: 0.5104, Test Accuracy: 0.695
+01/160: Val Loss: 0.5066, Test Accuracy: 0.713
+02/080: Val Loss: 0.6010, Test Accuracy: 0.717
+02/160: Val Loss: 0.6589, Test Accuracy: 0.717
+03/080: Val Loss: 0.5741, Test Accuracy: 0.717
+03/160: Val Loss: 0.5743, Test Accuracy: 0.726
+04/080: Val Loss: 0.5802, Test Accuracy: 0.716
+04/160: Val Loss: 0.6009, Test Accuracy: 0.730
+05/080: Val Loss: 0.6885, Test Accuracy: 0.757
+05/160: Val Loss: 0.8640, Test Accuracy: 0.752
+Val Loss: 0.5594, Test Accuracy: 0.729 ± 0.020, Duration: 19.183
+--
+PROTEINS - GraphSAGE - Num layers:5 -Hidden layer:128
+01/080: Val Loss: 0.5303, Test Accuracy: 0.717
+01/160: Val Loss: 0.5610, Test Accuracy: 0.731
+02/080: Val Loss: 0.6054, Test Accuracy: 0.726
+02/160: Val Loss: 0.6354, Test Accuracy: 0.722
+03/080: Val Loss: 0.6149, Test Accuracy: 0.695
+03/160: Val Loss: 0.5927, Test Accuracy: 0.677
+04/080: Val Loss: 0.5745, Test Accuracy: 0.707
+04/160: Val Loss: 0.7767, Test Accuracy: 0.721
+05/080: Val Loss: 0.5775, Test Accuracy: 0.757
+05/160: Val Loss: 0.6991, Test Accuracy: 0.748
+Val Loss: 0.5621, Test Accuracy: 0.716 ± 0.037, Duration: 19.252
+Best result - 0.722 ± 0.034
+--
+PROTEINS - GIN - Num layers:3 -Hidden layer:32
+01/080: Val Loss: 0.6434, Test Accuracy: 0.749
+01/160: Val Loss: 0.7220, Test Accuracy: 0.713
+02/080: Val Loss: 0.6247, Test Accuracy: 0.700
+02/160: Val Loss: 0.7065, Test Accuracy: 0.668
+03/080: Val Loss: 0.6393, Test Accuracy: 0.677
+03/160: Val Loss: 0.6247, Test Accuracy: 0.655
+04/080: Val Loss: 0.6326, Test Accuracy: 0.694
+04/160: Val Loss: 0.8436, Test Accuracy: 0.694
+05/080: Val Loss: 0.6327, Test Accuracy: 0.730
+05/160: Val Loss: 0.7237, Test Accuracy: 0.712
+Val Loss: 0.5647, Test Accuracy: 0.725 ± 0.012, Duration: 19.004
+--
+PROTEINS - GIN - Num layers:3 -Hidden layer:64
+01/080: Val Loss: 0.5920, Test Accuracy: 0.700
+01/160: Val Loss: 0.6613, Test Accuracy: 0.677
+02/080: Val Loss: 0.6856, Test Accuracy: 0.731
+02/160: Val Loss: 1.3164, Test Accuracy: 0.740
+03/080: Val Loss: 0.5717, Test Accuracy: 0.731
+03/160: Val Loss: 0.6108, Test Accuracy: 0.735
+04/080: Val Loss: 0.5952, Test Accuracy: 0.698
+04/160: Val Loss: 0.7117, Test Accuracy: 0.712
+05/080: Val Loss: 0.7194, Test Accuracy: 0.730
+05/160: Val Loss: 0.8461, Test Accuracy: 0.721
+Val Loss: 0.5596, Test Accuracy: 0.721 ± 0.037, Duration: 19.282
+--
+PROTEINS - GIN - Num layers:3 -Hidden layer:128
+01/080: Val Loss: 0.5428, Test Accuracy: 0.673
+01/160: Val Loss: 0.6245, Test Accuracy: 0.709
+02/080: Val Loss: 0.6979, Test Accuracy: 0.722
+02/160: Val Loss: 0.6928, Test Accuracy: 0.753
+03/080: Val Loss: 0.5250, Test Accuracy: 0.744
+03/160: Val Loss: 0.5769, Test Accuracy: 0.709
+04/080: Val Loss: 0.6841, Test Accuracy: 0.667
+04/160: Val Loss: 0.7708, Test Accuracy: 0.698
+05/080: Val Loss: 0.6362, Test Accuracy: 0.707
+05/160: Val Loss: 0.7473, Test Accuracy: 0.752
+Val Loss: 0.5527, Test Accuracy: 0.714 ± 0.036, Duration: 20.630
+--
+PROTEINS - GIN - Num layers:4 -Hidden layer:32
+01/080: Val Loss: 0.6264, Test Accuracy: 0.637
+01/160: Val Loss: 0.5608, Test Accuracy: 0.709
+02/080: Val Loss: 0.6390, Test Accuracy: 0.709
+02/160: Val Loss: 0.5959, Test Accuracy: 0.695
+03/080: Val Loss: 0.6711, Test Accuracy: 0.691
+03/160: Val Loss: 0.5475, Test Accuracy: 0.731
+04/080: Val Loss: 0.7553, Test Accuracy: 0.554
+04/160: Val Loss: 0.6396, Test Accuracy: 0.703
+05/080: Val Loss: 0.6428, Test Accuracy: 0.748
+05/160: Val Loss: 0.6732, Test Accuracy: 0.698
+Val Loss: 0.5575, Test Accuracy: 0.713 ± 0.027, Duration: 21.018
+--
+PROTEINS - GIN - Num layers:4 -Hidden layer:64
+01/080: Val Loss: 0.5769, Test Accuracy: 0.673
+01/160: Val Loss: 0.7491, Test Accuracy: 0.650
+02/080: Val Loss: 0.6273, Test Accuracy: 0.722
+02/160: Val Loss: 0.7110, Test Accuracy: 0.686
+03/080: Val Loss: 0.5678, Test Accuracy: 0.682
+03/160: Val Loss: 0.5562, Test Accuracy: 0.740
+04/080: Val Loss: 0.5870, Test Accuracy: 0.730
+04/160: Val Loss: 0.6689, Test Accuracy: 0.707
+05/080: Val Loss: 0.6405, Test Accuracy: 0.698
+05/160: Val Loss: 0.7090, Test Accuracy: 0.739
+Val Loss: 0.5528, Test Accuracy: 0.706 ± 0.016, Duration: 21.620
+--
+PROTEINS - GIN - Num layers:4 -Hidden layer:128
+01/080: Val Loss: 0.5950, Test Accuracy: 0.722
+01/160: Val Loss: 0.6140, Test Accuracy: 0.722
+02/080: Val Loss: 0.6787, Test Accuracy: 0.695
+02/160: Val Loss: 0.7428, Test Accuracy: 0.717
+03/080: Val Loss: 0.5884, Test Accuracy: 0.713
+03/160: Val Loss: 0.5966, Test Accuracy: 0.713
+04/080: Val Loss: 0.5596, Test Accuracy: 0.725
+04/160: Val Loss: 0.6651, Test Accuracy: 0.725
+05/080: Val Loss: 0.7036, Test Accuracy: 0.739
+05/160: Val Loss: 0.7002, Test Accuracy: 0.739
+Val Loss: 0.5557, Test Accuracy: 0.727 ± 0.025, Duration: 22.887
+--
+PROTEINS - GIN - Num layers:5 -Hidden layer:32
+01/080: Val Loss: 0.5752, Test Accuracy: 0.682
+01/160: Val Loss: 0.6058, Test Accuracy: 0.686
+02/080: Val Loss: 0.6190, Test Accuracy: 0.704
+02/160: Val Loss: 0.6601, Test Accuracy: 0.700
+03/080: Val Loss: 0.5440, Test Accuracy: 0.744
+03/160: Val Loss: 0.5471, Test Accuracy: 0.722
+04/080: Val Loss: 0.6703, Test Accuracy: 0.716
+04/160: Val Loss: 0.6142, Test Accuracy: 0.721
+05/080: Val Loss: 0.6605, Test Accuracy: 0.685
+05/160: Val Loss: 0.6690, Test Accuracy: 0.721
+Val Loss: 0.5468, Test Accuracy: 0.716 ± 0.035, Duration: 23.128
+--
+PROTEINS - GIN - Num layers:5 -Hidden layer:64
+01/080: Val Loss: 0.6448, Test Accuracy: 0.650
+01/160: Val Loss: 0.6724, Test Accuracy: 0.655
+02/080: Val Loss: 0.6215, Test Accuracy: 0.726
+02/160: Val Loss: 0.6483, Test Accuracy: 0.735
+03/080: Val Loss: 0.5888, Test Accuracy: 0.677
+03/160: Val Loss: 0.5616, Test Accuracy: 0.686
+04/080: Val Loss: 0.6317, Test Accuracy: 0.716
+04/160: Val Loss: 0.6744, Test Accuracy: 0.716
+05/080: Val Loss: 16.0981, Test Accuracy: 0.725
+05/160: Val Loss: 0.6193, Test Accuracy: 0.712
+Val Loss: 0.5482, Test Accuracy: 0.704 ± 0.015, Duration: 23.627
+--
+PROTEINS - GIN - Num layers:5 -Hidden layer:128
+01/080: Val Loss: 0.5373, Test Accuracy: 0.713
+01/160: Val Loss: 0.5032, Test Accuracy: 0.700
+02/080: Val Loss: 0.6469, Test Accuracy: 0.735
+02/160: Val Loss: 0.6568, Test Accuracy: 0.668
+03/080: Val Loss: 0.5581, Test Accuracy: 0.776
+03/160: Val Loss: 0.5243, Test Accuracy: 0.740
+04/080: Val Loss: 0.6122, Test Accuracy: 0.689
+04/160: Val Loss: 0.6905, Test Accuracy: 0.689
+05/080: Val Loss: 0.6266, Test Accuracy: 0.716
+05/160: Val Loss: 0.6010, Test Accuracy: 0.730
+Val Loss: 0.5390, Test Accuracy: 0.720 ± 0.032, Duration: 25.502
+Best result - 0.720 ± 0.032
+--
+PROTEINS - SAGPool - Num layers:3 -Hidden layer:32
+01/080: Val Loss: 0.5677, Test Accuracy: 0.713
+01/160: Val Loss: 0.5431, Test Accuracy: 0.695
+02/080: Val Loss: 0.7133, Test Accuracy: 0.735
+02/160: Val Loss: 0.5957, Test Accuracy: 0.762
+03/080: Val Loss: 0.5780, Test Accuracy: 0.722
+03/160: Val Loss: 0.5944, Test Accuracy: 0.731
+04/080: Val Loss: 0.5618, Test Accuracy: 0.716
+04/160: Val Loss: 0.5835, Test Accuracy: 0.680
+05/080: Val Loss: 0.6654, Test Accuracy: 0.716
+05/160: Val Loss: 0.8579, Test Accuracy: 0.743
+Val Loss: 0.5645, Test Accuracy: 0.713 ± 0.017, Duration: 28.738
+--
+PROTEINS - SAGPool - Num layers:3 -Hidden layer:64
+01/080: Val Loss: 0.5530, Test Accuracy: 0.691
+01/160: Val Loss: 0.5276, Test Accuracy: 0.709
+02/080: Val Loss: 0.6205, Test Accuracy: 0.744
+02/160: Val Loss: 0.6741, Test Accuracy: 0.735
+03/080: Val Loss: 0.5767, Test Accuracy: 0.709
+03/160: Val Loss: 0.5949, Test Accuracy: 0.722
+04/080: Val Loss: 0.6305, Test Accuracy: 0.689
+04/160: Val Loss: 0.8585, Test Accuracy: 0.725
+05/080: Val Loss: 0.6598, Test Accuracy: 0.743
+05/160: Val Loss: 0.7280, Test Accuracy: 0.743
+Val Loss: 0.5611, Test Accuracy: 0.721 ± 0.019, Duration: 28.684
+--
+PROTEINS - SAGPool - Num layers:3 -Hidden layer:128
+01/080: Val Loss: 0.5617, Test Accuracy: 0.695
+01/160: Val Loss: 0.5384, Test Accuracy: 0.713
+02/080: Val Loss: 0.6041, Test Accuracy: 0.740
+02/160: Val Loss: 0.6210, Test Accuracy: 0.731
+03/080: Val Loss: 0.5580, Test Accuracy: 0.686
+03/160: Val Loss: 0.5446, Test Accuracy: 0.695
+04/080: Val Loss: 0.5412, Test Accuracy: 0.712
+04/160: Val Loss: 0.6519, Test Accuracy: 0.716
+05/080: Val Loss: 0.8024, Test Accuracy: 0.734
+05/160: Val Loss: 1.1713, Test Accuracy: 0.716
+Val Loss: 0.5564, Test Accuracy: 0.711 ± 0.022, Duration: 28.659
+--
+PROTEINS - SAGPool - Num layers:4 -Hidden layer:32
+01/080: Val Loss: 0.5381, Test Accuracy: 0.695
+01/160: Val Loss: 0.5314, Test Accuracy: 0.695
+02/080: Val Loss: 0.6152, Test Accuracy: 0.749
+02/160: Val Loss: 1.0322, Test Accuracy: 0.722
+03/080: Val Loss: 0.5638, Test Accuracy: 0.731
+03/160: Val Loss: 0.6262, Test Accuracy: 0.749
+04/080: Val Loss: 0.5858, Test Accuracy: 0.712
+04/160: Val Loss: 0.6343, Test Accuracy: 0.721
+05/080: Val Loss: 0.6023, Test Accuracy: 0.730
+05/160: Val Loss: 0.6936, Test Accuracy: 0.707
+Val Loss: 0.5574, Test Accuracy: 0.721 ± 0.024, Duration: 30.532
+--
+PROTEINS - SAGPool - Num layers:4 -Hidden layer:64
+01/080: Val Loss: 0.5397, Test Accuracy: 0.695
+01/160: Val Loss: 0.5640, Test Accuracy: 0.691
+02/080: Val Loss: 0.6013, Test Accuracy: 0.731
+02/160: Val Loss: 0.8265, Test Accuracy: 0.700
+03/080: Val Loss: 0.5955, Test Accuracy: 0.686
+03/160: Val Loss: 0.6641, Test Accuracy: 0.700
+04/080: Val Loss: 0.7283, Test Accuracy: 0.707
+04/160: Val Loss: 1.2771, Test Accuracy: 0.716
+05/080: Val Loss: 0.9570, Test Accuracy: 0.757
+05/160: Val Loss: 1.6363, Test Accuracy: 0.748
+Val Loss: 0.5601, Test Accuracy: 0.721 ± 0.024, Duration: 30.727
+--
+PROTEINS - SAGPool - Num layers:4 -Hidden layer:128
+01/080: Val Loss: 0.5184, Test Accuracy: 0.686
+01/160: Val Loss: 0.5232, Test Accuracy: 0.695
+02/080: Val Loss: 0.6481, Test Accuracy: 0.726
+02/160: Val Loss: 0.7027, Test Accuracy: 0.744
+03/080: Val Loss: 0.5705, Test Accuracy: 0.713
+03/160: Val Loss: 0.5990, Test Accuracy: 0.726
+04/080: Val Loss: 0.6658, Test Accuracy: 0.734
+04/160: Val Loss: 0.7998, Test Accuracy: 0.743
+05/080: Val Loss: 0.6015, Test Accuracy: 0.721
+05/160: Val Loss: 0.6772, Test Accuracy: 0.734
+Val Loss: 0.5618, Test Accuracy: 0.721 ± 0.018, Duration: 30.653
+--
+PROTEINS - SAGPool - Num layers:5 -Hidden layer:32
+01/080: Val Loss: 0.5559, Test Accuracy: 0.682
+01/160: Val Loss: 0.5421, Test Accuracy: 0.673
+02/080: Val Loss: 0.5836, Test Accuracy: 0.758
+02/160: Val Loss: 0.6777, Test Accuracy: 0.709
+03/080: Val Loss: 0.5582, Test Accuracy: 0.758
+03/160: Val Loss: 0.6833, Test Accuracy: 0.731
+04/080: Val Loss: 0.5944, Test Accuracy: 0.721
+04/160: Val Loss: 0.9896, Test Accuracy: 0.689
+05/080: Val Loss: 0.6149, Test Accuracy: 0.734
+05/160: Val Loss: 0.7641, Test Accuracy: 0.748
+Val Loss: 0.5536, Test Accuracy: 0.716 ± 0.029, Duration: 42.860
+--
+PROTEINS - SAGPool - Num layers:5 -Hidden layer:64
+01/080: Val Loss: 0.5760, Test Accuracy: 0.717
+01/160: Val Loss: 0.9068, Test Accuracy: 0.686
+02/080: Val Loss: 0.5929, Test Accuracy: 0.744
+02/160: Val Loss: 0.8125, Test Accuracy: 0.740
+03/080: Val Loss: 0.5858, Test Accuracy: 0.749
+03/160: Val Loss: 0.6272, Test Accuracy: 0.709
+04/080: Val Loss: 0.5731, Test Accuracy: 0.698
+04/160: Val Loss: 0.7417, Test Accuracy: 0.734
+05/080: Val Loss: 0.5883, Test Accuracy: 0.784
+05/160: Val Loss: 0.7401, Test Accuracy: 0.757
+Val Loss: 0.5473, Test Accuracy: 0.725 ± 0.028, Duration: 43.403
+--
+PROTEINS - SAGPool - Num layers:5 -Hidden layer:128
+01/080: Val Loss: 0.5193, Test Accuracy: 0.704
+01/160: Val Loss: 0.5283, Test Accuracy: 0.686
+02/080: Val Loss: 0.6189, Test Accuracy: 0.731
+02/160: Val Loss: 0.6926, Test Accuracy: 0.740
+03/080: Val Loss: 0.5443, Test Accuracy: 0.744
+03/160: Val Loss: 0.6405, Test Accuracy: 0.704
+04/080: Val Loss: 0.6436, Test Accuracy: 0.703
+04/160: Val Loss: 0.9146, Test Accuracy: 0.730
+05/080: Val Loss: 0.5888, Test Accuracy: 0.761
+05/160: Val Loss: 0.5894, Test Accuracy: 0.748
+Val Loss: 0.5559, Test Accuracy: 0.722 ± 0.023, Duration: 43.113
+Best result - 0.725 ± 0.028
+--
+PROTEINS - SortPool - Num layers:3 -Hidden layer:32
+01/080: Val Loss: 1.7436, Test Accuracy: 0.731
+01/160: Val Loss: 1.7326, Test Accuracy: 0.726
+02/080: Val Loss: 0.7645, Test Accuracy: 0.686
+02/160: Val Loss: 1.2250, Test Accuracy: 0.709
+03/080: Val Loss: 0.9909, Test Accuracy: 0.691
+03/160: Val Loss: 1.7730, Test Accuracy: 0.682
+04/080: Val Loss: 0.7357, Test Accuracy: 0.689
+04/160: Val Loss: 0.9560, Test Accuracy: 0.712
+05/080: Val Loss: 1.8870, Test Accuracy: 0.730
+05/160: Val Loss: 2.1133, Test Accuracy: 0.712
+Val Loss: 0.5324, Test Accuracy: 0.744 ± 0.017, Duration: 19.157
+--
+PROTEINS - SortPool - Num layers:3 -Hidden layer:64
+01/080: Val Loss: 1.0927, Test Accuracy: 0.726
+01/160: Val Loss: 1.6183, Test Accuracy: 0.744
+02/080: Val Loss: 0.6272, Test Accuracy: 0.740
+02/160: Val Loss: 0.9510, Test Accuracy: 0.717
+03/080: Val Loss: 1.0059, Test Accuracy: 0.704
+03/160: Val Loss: 1.5986, Test Accuracy: 0.704
+04/080: Val Loss: 0.5860, Test Accuracy: 0.707
+04/160: Val Loss: 0.6160, Test Accuracy: 0.689
+05/080: Val Loss: 0.7294, Test Accuracy: 0.703
+05/160: Val Loss: 0.8146, Test Accuracy: 0.734
+Val Loss: 0.5448, Test Accuracy: 0.733 ± 0.023, Duration: 19.203
+--
+PROTEINS - SortPool - Num layers:3 -Hidden layer:128
+01/080: Val Loss: 1.0140, Test Accuracy: 0.673
+01/160: Val Loss: 1.7933, Test Accuracy: 0.686
+02/080: Val Loss: 0.6740, Test Accuracy: 0.646
+02/160: Val Loss: 1.9079, Test Accuracy: 0.673
+03/080: Val Loss: 0.6516, Test Accuracy: 0.731
+03/160: Val Loss: 0.7427, Test Accuracy: 0.731
+04/080: Val Loss: 0.9621, Test Accuracy: 0.676
+04/160: Val Loss: 1.4157, Test Accuracy: 0.635
+05/080: Val Loss: 1.2125, Test Accuracy: 0.685
+05/160: Val Loss: 1.6336, Test Accuracy: 0.667
+Val Loss: 0.5383, Test Accuracy: 0.748 ± 0.009, Duration: 18.931
+--
+PROTEINS - SortPool - Num layers:4 -Hidden layer:32
+01/080: Val Loss: 0.8437, Test Accuracy: 0.753
+01/160: Val Loss: 1.3792, Test Accuracy: 0.762
+02/080: Val Loss: 0.5033, Test Accuracy: 0.740
+02/160: Val Loss: 0.6081, Test Accuracy: 0.726
+03/080: Val Loss: 0.5874, Test Accuracy: 0.722
+03/160: Val Loss: 0.8361, Test Accuracy: 0.664
+04/080: Val Loss: 0.5649, Test Accuracy: 0.707
+04/160: Val Loss: 0.8050, Test Accuracy: 0.658
+05/080: Val Loss: 0.8020, Test Accuracy: 0.721
+05/160: Val Loss: 1.9310, Test Accuracy: 0.685
+Val Loss: 0.5270, Test Accuracy: 0.744 ± 0.013, Duration: 20.259
+--
+PROTEINS - SortPool - Num layers:4 -Hidden layer:64
+01/080: Val Loss: 1.2503, Test Accuracy: 0.704
+01/160: Val Loss: 1.3073, Test Accuracy: 0.704
+02/080: Val Loss: 0.6555, Test Accuracy: 0.726
+02/160: Val Loss: 1.1198, Test Accuracy: 0.722
+03/080: Val Loss: 0.7876, Test Accuracy: 0.735
+03/160: Val Loss: 1.5890, Test Accuracy: 0.709
+04/080: Val Loss: 0.6469, Test Accuracy: 0.712
+04/160: Val Loss: 1.1041, Test Accuracy: 0.671
+05/080: Val Loss: 1.1711, Test Accuracy: 0.730
+05/160: Val Loss: 1.9573, Test Accuracy: 0.721
+Val Loss: 0.5427, Test Accuracy: 0.732 ± 0.019, Duration: 20.562
+--
+PROTEINS - SortPool - Num layers:4 -Hidden layer:128
+01/080: Val Loss: 0.5633, Test Accuracy: 0.731
+01/160: Val Loss: 0.5645, Test Accuracy: 0.731
+02/080: Val Loss: 0.9020, Test Accuracy: 0.686
+02/160: Val Loss: 1.1603, Test Accuracy: 0.704
+03/080: Val Loss: 0.7900, Test Accuracy: 0.682
+03/160: Val Loss: 1.4321, Test Accuracy: 0.668
+04/080: Val Loss: 0.9148, Test Accuracy: 0.698
+04/160: Val Loss: 1.7691, Test Accuracy: 0.676
+05/080: Val Loss: 1.1328, Test Accuracy: 0.712
+05/160: Val Loss: 1.6717, Test Accuracy: 0.712
+Val Loss: 0.5383, Test Accuracy: 0.741 ± 0.024, Duration: 20.669
+--
+PROTEINS - SortPool - Num layers:5 -Hidden layer:32
+01/080: Val Loss: 0.5508, Test Accuracy: 0.740
+01/160: Val Loss: 0.6793, Test Accuracy: 0.691
+02/080: Val Loss: 0.9853, Test Accuracy: 0.682
+02/160: Val Loss: 1.0679, Test Accuracy: 0.686
+03/080: Val Loss: 1.1595, Test Accuracy: 0.744
+03/160: Val Loss: 0.6227, Test Accuracy: 0.740
+04/080: Val Loss: 0.8695, Test Accuracy: 0.703
+04/160: Val Loss: 1.4601, Test Accuracy: 0.662
+05/080: Val Loss: 1.1967, Test Accuracy: 0.757
+05/160: Val Loss: 1.8063, Test Accuracy: 0.739
+Val Loss: 0.5255, Test Accuracy: 0.737 ± 0.020, Duration: 21.478
+--
+PROTEINS - SortPool - Num layers:5 -Hidden layer:64
+01/080: Val Loss: 0.5603, Test Accuracy: 0.731
+01/160: Val Loss: 0.5626, Test Accuracy: 0.735
+02/080: Val Loss: 0.5614, Test Accuracy: 0.731
+02/160: Val Loss: 0.5605, Test Accuracy: 0.722
+03/080: Val Loss: 0.6782, Test Accuracy: 0.726
+03/160: Val Loss: 0.6472, Test Accuracy: 0.744
+04/080: Val Loss: 0.5691, Test Accuracy: 0.703
+04/160: Val Loss: 0.8046, Test Accuracy: 0.703
+05/080: Val Loss: 1.0417, Test Accuracy: 0.743
+05/160: Val Loss: 1.9917, Test Accuracy: 0.739
+Val Loss: 0.5478, Test Accuracy: 0.736 ± 0.017, Duration: 21.697
+--
+PROTEINS - SortPool - Num layers:5 -Hidden layer:128
+01/080: Val Loss: 0.9030, Test Accuracy: 0.686
+01/160: Val Loss: 1.5345, Test Accuracy: 0.682
+02/080: Val Loss: 0.6490, Test Accuracy: 0.731
+02/160: Val Loss: 0.7590, Test Accuracy: 0.717
+03/080: Val Loss: 0.7180, Test Accuracy: 0.735
+03/160: Val Loss: 1.3881, Test Accuracy: 0.700
+04/080: Val Loss: 0.5436, Test Accuracy: 0.685
+04/160: Val Loss: 0.5998, Test Accuracy: 0.694
+05/080: Val Loss: 0.9104, Test Accuracy: 0.698
+05/160: Val Loss: 1.2831, Test Accuracy: 0.671
+Val Loss: 0.5499, Test Accuracy: 0.727 ± 0.033, Duration: 21.979
+Best result - 0.737 ± 0.020
+--
+PROTEINS - TopK - Num layers:3 -Hidden layer:32
+01/080: Val Loss: 0.5815, Test Accuracy: 0.700
+01/160: Val Loss: 0.5528, Test Accuracy: 0.682
+02/080: Val Loss: 0.5886, Test Accuracy: 0.749
+02/160: Val Loss: 0.5951, Test Accuracy: 0.735
+03/080: Val Loss: 0.5723, Test Accuracy: 0.749
+03/160: Val Loss: 0.5975, Test Accuracy: 0.735
+04/080: Val Loss: 0.5971, Test Accuracy: 0.685
+04/160: Val Loss: 0.6452, Test Accuracy: 0.676
+05/080: Val Loss: 0.6367, Test Accuracy: 0.707
+05/160: Val Loss: 0.7024, Test Accuracy: 0.721
+Val Loss: 0.5703, Test Accuracy: 0.710 ± 0.027, Duration: 28.604
+--
+PROTEINS - TopK - Num layers:3 -Hidden layer:64
+01/080: Val Loss: 0.5627, Test Accuracy: 0.695
+01/160: Val Loss: 0.5707, Test Accuracy: 0.704
+02/080: Val Loss: 0.6052, Test Accuracy: 0.740
+02/160: Val Loss: 0.6862, Test Accuracy: 0.704
+03/080: Val Loss: 0.5476, Test Accuracy: 0.717
+03/160: Val Loss: 0.5871, Test Accuracy: 0.695
+04/080: Val Loss: 0.5454, Test Accuracy: 0.730
+04/160: Val Loss: 0.6070, Test Accuracy: 0.689
+05/080: Val Loss: 0.6308, Test Accuracy: 0.734
+05/160: Val Loss: 1.0466, Test Accuracy: 0.748
+Val Loss: 0.5585, Test Accuracy: 0.714 ± 0.022, Duration: 28.212
+--
+PROTEINS - TopK - Num layers:3 -Hidden layer:128
+01/080: Val Loss: 0.5056, Test Accuracy: 0.677
+01/160: Val Loss: 0.5679, Test Accuracy: 0.691
+02/080: Val Loss: 0.6255, Test Accuracy: 0.731
+02/160: Val Loss: 0.6450, Test Accuracy: 0.740
+03/080: Val Loss: 0.5635, Test Accuracy: 0.695
+03/160: Val Loss: 0.5669, Test Accuracy: 0.700
+04/080: Val Loss: 0.5635, Test Accuracy: 0.712
+04/160: Val Loss: 0.5608, Test Accuracy: 0.716
+05/080: Val Loss: 0.6071, Test Accuracy: 0.739
+05/160: Val Loss: 0.6237, Test Accuracy: 0.757
+Val Loss: 0.5595, Test Accuracy: 0.711 ± 0.022, Duration: 28.577
+--
+PROTEINS - TopK - Num layers:4 -Hidden layer:32
+01/080: Val Loss: 0.5478, Test Accuracy: 0.700
+01/160: Val Loss: 0.5342, Test Accuracy: 0.686
+02/080: Val Loss: 0.5907, Test Accuracy: 0.709
+02/160: Val Loss: 0.6083, Test Accuracy: 0.709
+03/080: Val Loss: 0.5800, Test Accuracy: 0.700
+03/160: Val Loss: 0.5831, Test Accuracy: 0.700
+04/080: Val Loss: 0.5740, Test Accuracy: 0.725
+04/160: Val Loss: 0.5753, Test Accuracy: 0.721
+05/080: Val Loss: 0.5931, Test Accuracy: 0.748
+05/160: Val Loss: 0.6215, Test Accuracy: 0.734
+Val Loss: 0.5571, Test Accuracy: 0.730 ± 0.023, Duration: 30.179
+--
+PROTEINS - TopK - Num layers:4 -Hidden layer:64
+01/080: Val Loss: 0.5154, Test Accuracy: 0.709
+01/160: Val Loss: 0.5182, Test Accuracy: 0.691
+02/080: Val Loss: 0.6205, Test Accuracy: 0.749
+02/160: Val Loss: 0.6292, Test Accuracy: 0.744
+03/080: Val Loss: 0.5534, Test Accuracy: 0.717
+03/160: Val Loss: 0.5277, Test Accuracy: 0.713
+04/080: Val Loss: 0.5903, Test Accuracy: 0.698
+04/160: Val Loss: 0.6412, Test Accuracy: 0.703
+05/080: Val Loss: 0.6099, Test Accuracy: 0.734
+05/160: Val Loss: 0.6345, Test Accuracy: 0.761
+Val Loss: 0.5553, Test Accuracy: 0.716 ± 0.029, Duration: 30.805
+--
+PROTEINS - TopK - Num layers:4 -Hidden layer:128
+01/080: Val Loss: 0.5330, Test Accuracy: 0.695
+01/160: Val Loss: 0.5467, Test Accuracy: 0.691
+02/080: Val Loss: 0.6451, Test Accuracy: 0.735
+02/160: Val Loss: 0.8089, Test Accuracy: 0.740
+03/080: Val Loss: 0.5718, Test Accuracy: 0.695
+03/160: Val Loss: 0.8015, Test Accuracy: 0.717
+04/080: Val Loss: 0.6322, Test Accuracy: 0.698
+04/160: Val Loss: 0.7026, Test Accuracy: 0.716
+05/080: Val Loss: 0.5978, Test Accuracy: 0.725
+05/160: Val Loss: 0.7151, Test Accuracy: 0.748
+Val Loss: 0.5619, Test Accuracy: 0.713 ± 0.020, Duration: 30.095
+--
+PROTEINS - TopK - Num layers:5 -Hidden layer:32
+01/080: Val Loss: 0.5390, Test Accuracy: 0.686
+01/160: Val Loss: 0.4990, Test Accuracy: 0.740
+02/080: Val Loss: 0.5999, Test Accuracy: 0.753
+02/160: Val Loss: 0.8049, Test Accuracy: 0.744
+03/080: Val Loss: 0.6109, Test Accuracy: 0.691
+03/160: Val Loss: 0.8665, Test Accuracy: 0.686
+04/080: Val Loss: 0.5771, Test Accuracy: 0.694
+04/160: Val Loss: 0.6030, Test Accuracy: 0.716
+05/080: Val Loss: 0.8119, Test Accuracy: 0.748
+05/160: Val Loss: 1.2486, Test Accuracy: 0.716
+Val Loss: 0.5498, Test Accuracy: 0.720 ± 0.016, Duration: 42.377
+--
+PROTEINS - TopK - Num layers:5 -Hidden layer:64
+01/080: Val Loss: 0.5445, Test Accuracy: 0.704
+01/160: Val Loss: 0.5412, Test Accuracy: 0.700
+02/080: Val Loss: 0.6136, Test Accuracy: 0.731
+02/160: Val Loss: 0.7476, Test Accuracy: 0.695
+03/080: Val Loss: 0.5453, Test Accuracy: 0.744
+03/160: Val Loss: 0.5952, Test Accuracy: 0.731
+04/080: Val Loss: 0.5997, Test Accuracy: 0.680
+04/160: Val Loss: 0.7146, Test Accuracy: 0.680
+05/080: Val Loss: 0.6227, Test Accuracy: 0.716
+05/160: Val Loss: 1.0882, Test Accuracy: 0.716
+Val Loss: 0.5625, Test Accuracy: 0.725 ± 0.015, Duration: 42.478
+--
+PROTEINS - TopK - Num layers:5 -Hidden layer:128
+01/080: Val Loss: 0.5277, Test Accuracy: 0.691
+01/160: Val Loss: 0.5234, Test Accuracy: 0.682
+02/080: Val Loss: 0.9736, Test Accuracy: 0.744
+02/160: Val Loss: 1.2121, Test Accuracy: 0.726
+03/080: Val Loss: 0.5646, Test Accuracy: 0.704
+03/160: Val Loss: 0.7749, Test Accuracy: 0.717
+04/080: Val Loss: 0.5614, Test Accuracy: 0.707
+04/160: Val Loss: 0.6088, Test Accuracy: 0.739
+05/080: Val Loss: 0.5652, Test Accuracy: 0.748
+05/160: Val Loss: 0.6203, Test Accuracy: 0.775
+Val Loss: 0.5441, Test Accuracy: 0.722 ± 0.024, Duration: 42.944
+Best result - 0.722 ± 0.024
+--
+PROTEINS - GCN: 0.727 ± 0.032
+PROTEINS - GraphSAGE: 0.722 ± 0.034
+PROTEINS - GIN: 0.720 ± 0.032
+PROTEINS - SAGPool: 0.725 ± 0.028
+PROTEINS - SortPool: 0.737 ± 0.020
+PROTEINS - TopK: 0.722 ± 0.024
